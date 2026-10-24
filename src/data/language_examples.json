@@ -1,0 +1,42 @@
+[
+  {
+    "id": "LANG-01",
+    "concept": "chest_pain",
+    "en": "chest pain, crushing feeling, heavy pressure in chest",
+    "hi": "छाती में दर्द, सीने में भारीपन, सीने में जकड़न",
+    "hinglish": "chhati me dard, chest me pressure, seene me jalan",
+    "urgency_hint": "EMERGENCY"
+  },
+  {
+    "id": "LANG-02",
+    "concept": "shortness_of_breath",
+    "en": "shortness of breath, gasping, breathless, cannot breathe",
+    "hi": "सांस फूलना, सांस लेने में तकलीफ, दम घुटना",
+    "hinglish": "saans lene me dikkat, breathlessness, saans phool rahi hai",
+    "urgency_hint": "EMERGENCY"
+  },
+  {
+    "id": "LANG-03",
+    "concept": "stroke_signs",
+    "en": "face drooping, arm weakness, slurred speech, sudden numbness",
+    "hi": "चेहरा टेढ़ा होना, हाथ में कमजोरी, बोलने में लड़खड़ाहट",
+    "hinglish": "face droop ho gaya, boli ladkhada rahi hai, ek side weakness",
+    "urgency_hint": "EMERGENCY"
+  },
+  {
+    "id": "LANG-04",
+    "concept": "elderly_mobility",
+    "en": "mobility assistance, help walking, elder care, daily chores",
+    "hi": "चलने फिरने में मदद, बुजुर्गों की देखभाल, दैनिक काम",
+    "hinglish": "dadaji ko chalne me help, elderly care, bathroom jane me support",
+    "urgency_hint": "NON_CLINICAL_SUPPORT"
+  },
+  {
+    "id": "LANG-05",
+    "concept": "fever_cold",
+    "en": "mild fever, runny nose, sneezing, scratchy throat",
+    "hi": "हल्का बुखार, बहती नाक, छींकें, गले में खराश",
+    "hinglish": "halka bukhar, runny nose, gale me dard, sardi",
+    "urgency_hint": "ROUTINE"
+  }
+]

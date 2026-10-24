@@ -1,0 +1,6 @@
+id,concept,en,hi,hinglish,urgency_hint
+LANG-01,chest_pain,"chest pain, crushing feeling, heavy pressure in chest","छाती में दर्द, सीने में भारीपन, सीने में जकड़न","chhati me dard, chest me pressure, seene me jalan",EMERGENCY
+LANG-02,shortness_of_breath,"shortness of breath, gasping, breathless, cannot breathe","सांस फूलना, सांस लेने में तकलीफ, दम घुटना","saans lene me dikkat, breathlessness, saans phool rahi hai",EMERGENCY
+LANG-03,stroke_signs,"face drooping, arm weakness, slurred speech, sudden numbness","चेहरा टेढ़ा होना, हाथ में कमजोरी, बोलने में लड़खड़ाहट","face droop ho gaya, boli ladkhada rahi hai, ek side weakness",EMERGENCY
+LANG-04,elderly_mobility,"mobility assistance, help walking, elder care, daily chores","चलने फिरने में मदद, बुजुर्गों की देखभाल, दैनिक काम","dadaji ko chalne me help, elderly care, bathroom jane me support",NON_CLINICAL_SUPPORT
+LANG-05,fever_cold,"mild fever, runny nose, sneezing, scratchy throat","हल्का बुखार, बहती नाक, छींकें, गले में खराश","halka bukhar, runny nose, gale me dard, sardi",ROUTINE

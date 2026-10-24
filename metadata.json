@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix CareCompass - Healthcare Navigation \u0026 Caregiver Matching",
+  "description": "A safety-first care-navigation and caregiver-matching prototype that helps people describe health concerns in plain language, understand safe next steps, and discover eligible caregiver support options.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
